@@ -1,6 +1,6 @@
 # FFmpeg Setup
 
-**Prerequisite:** Make sure FFmpeg is installed. You can download it from:  
+**Prerequisite:** Make sure FFmpeg is installed. You can download it from any of these two:  
 - [FFmpeg official builds](https://www.ffmpeg.org/download.html#build-windows)  
 - [Gyan’s FFmpeg builds](https://www.gyan.dev/ffmpeg/builds/)  
 
